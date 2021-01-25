@@ -1,4 +1,4 @@
-# Lab-2: Explainability Toolkit (AIX360)
+# Lab-3: Explainability Toolkit (AIX360)
 
 ## Introduction
 
