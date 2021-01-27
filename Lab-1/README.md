@@ -1,4 +1,4 @@
-# Lab-1
+# Lab-1: Setup Environment
 
 ## Introduction:
 
@@ -10,6 +10,7 @@ Upon completing the lab, you will have:
 
 1. Created a project
 1. Created an object storage instance and associate it with the project
+1. Initiate the IBM Watson OpenScale Auto setup. 
 
 ### Step 1. Please click on the link below to download the instructions to your machine.
 
