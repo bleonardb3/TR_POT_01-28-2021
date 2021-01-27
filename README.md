@@ -10,8 +10,8 @@ This session will provide a brief overview of the toolkits and 1 lab on each too
 
 [Lab-2](Lab-2) - This lab will feature IBM's AI Fairness 360 (AIF360), a comprehensive open-source toolkit of metrics to check for unwanted bias in datasets and machine learning models, and state-of-the-art algorithms to mitigate such bias.  
 
-[Lab-3](Lab-3) - This lab will feature IBM's AI Explainability 360, a comprehensive open source toolkit of state-of-the-art algorithms that support the interpretability and explainability of machine learning models. 
+[Lab-3](Lab-3) - This lab will feature IBM's AI Explainability 360 (AIX360), a comprehensive open source toolkit of state-of-the-art algorithms that support the interpretability and explainability of machine learning models. 
 
 [Lab-4](Lab-4) - This lab will feature IBM's Adversarial Robustness Toolbox (ART). ART is a library dedicated to adversarial machine learning. Its purpose is to allow rapid crafting and analysis of attacks and defense methods for machine learning models. ART provides an implementation for many state-of-the-art methods for attacking and defending classifiers.
 
-[Lab-5](Lab-5) - This demo will feature Watson OpenScale. IBM Watson OpenScale is an open platform that helps remove barriers to enterprise-scale AI by supporting bias mitigation, accuracy, and explainability of outcomes among other features. 
+[Lab-5](Lab-5) - This demo will feature IBM Watson OpenScale. IBM Watson OpenScale is an open platform that helps remove barriers to enterprise-scale AI by supporting bias mitigation, accuracy, and explainability of outcomes among other features. 
